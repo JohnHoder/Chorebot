@@ -8,7 +8,7 @@ GUI control panel of chorebot malware
 Developed using Dev-C++
 ========
 
-Active years of development - 2010 - 2011
+Active years of development - 2009 - 2010
 
 ========
 
